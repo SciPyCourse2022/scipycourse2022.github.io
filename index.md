@@ -4,7 +4,7 @@ layout: index
 #tagline: page tagline
 ---
 
-**12 classes on Tuesdays, May 10 to July XX, 2022**<br>
+**12 classes on Tuesdays, May 10 to August 2, 2022**<br>
 **LMU Biozentrum, videoconference via Zoom**<br>
 **13-15:30, 3 ECTS total**
 
