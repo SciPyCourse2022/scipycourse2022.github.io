@@ -26,8 +26,6 @@ and code version control with Git will also be covered. Students are expected to
 own computer. A minimal level of attendance (9/12 classes) and participation is required, and
 minimal homework exercises will be assigned.
 
-This is course no. 19265 in the [official course listing](https://lsf.verwaltung.uni-muenchen.de/qisserver/rds?state=verpublish&status=init&vmfile=no&publishid=815836&moduleCall=webInfo&publishConfFile=webInfo&publishSubDir=veranstaltung).
-
 # Class outline
 
 1. Python basics
