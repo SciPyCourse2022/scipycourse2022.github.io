@@ -42,12 +42,8 @@ This is course no. 19265 in the [official course listing](https://lsf.verwaltung
 10. statistics
 11. organizing code, data, results; [version
 control](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) with
-[Git](https://git-scm.com/); work on project
-12. options:
-    - review
-    - dimension reduction & clustering
-    - hierarchical indexing in pandas
-    - work on project
+[Git](https://git-scm.com/)
+12. dimension reduction & clustering
 
 # Class project
 
